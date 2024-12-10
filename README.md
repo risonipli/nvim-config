@@ -8,3 +8,4 @@
 - [neogit](https://github.com/NeogitOrg/neogit)
 - [bluloco](https://github.com/uloco/bluloco.nvim)
 - [lualine](https://github.com/nvim-lualine/lualine.nvim)
+- [bufferline](https://github.com/akinsho/bufferline.nvim)
