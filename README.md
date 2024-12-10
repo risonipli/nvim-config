@@ -6,3 +6,5 @@
 - [which-key](https://github.com/folke/which-key.nvim)
 - [gitsigns](https://github.com/lewis6991/gitsigns.nvim)
 - [neogit](https://github.com/NeogitOrg/neogit)
+- [bluloco](https://github.com/uloco/bluloco.nvim)
+- [lualine](https://github.com/nvim-lualine/lualine.nvim)

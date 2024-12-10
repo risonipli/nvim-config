@@ -15,4 +15,13 @@ return {
     config = true,
   },
   { "lewis6991/gitsigns.nvim" },
+  {
+    "uloco/bluloco.nvim",
+    lazy = false,
+    priority = 1000,
+    dependencies = { "rktjmp/lush.nvim" },
+    config = function()
+      -- your optional config goes here, see below.
+    end,
+  },
 }
